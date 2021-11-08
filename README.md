@@ -1,2 +1,2 @@
 # ParseJdapkg
-jd小程序解析
+京东小程序解析
